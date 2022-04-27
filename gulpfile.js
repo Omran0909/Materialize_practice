@@ -8,7 +8,8 @@ var csses = [
 ];
 
 var jses = [
-    'node_modules/materialize-css/dist/js/materialize.min.js'
+    'node_modules/materialize-css/dist/js/materialize.min.js',
+    'assets/js/app.js'
 ];  
 
 function styles() {
